@@ -1,4 +1,6 @@
-# Alura - Angular 2 course: even more powerful webapps part 1
+# Alura - Angular 2 course: Even more powerful webapps part 1
+
+This is the code that I've developed following the course. I've made some changes on the original one.
 
 ## Content
 
